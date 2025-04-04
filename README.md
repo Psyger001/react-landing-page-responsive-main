@@ -15,8 +15,6 @@
   </div>
   <h3 align="center">Build a Beautiful, Modern Landing Page for Your AI SaaS</h3>
   <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/qeCBBxZoqAM" target="_blank"><b>YouTube</b></a>
   </div>
   <br />
 </div>
